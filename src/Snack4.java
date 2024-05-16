@@ -9,7 +9,6 @@ public class Snack4 {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-
         System.out.println("Verifica se una parola è palindroma:");
         String stringa = input.nextLine();
 
