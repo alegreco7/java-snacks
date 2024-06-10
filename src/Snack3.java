@@ -11,7 +11,6 @@ public class Snack3 {
         // Variabile per memorizzare la somma degli elementi in posizione dispari
         int sommaDispari = 0;
 
-        // Itera sugli elementi dell'array
         for (int i = 0; i < numeri.length; i++) {
             // Verifica se l'indice è pari
             if (i % 2 == 0) {

@@ -12,7 +12,6 @@ public class Snack4 {
         System.out.println("Verifica se una parola è palindroma:");
         String stringa = input.nextLine();
 
-
         input.close();
 
         // Verifica se la stringa è palindroma
